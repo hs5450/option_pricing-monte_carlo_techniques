@@ -1,4 +1,4 @@
-# IB9JHO: Barrier Option Pricing
+# Barrier Option Pricing
 
 ## Project Overview
 This project focuses on the quantitative pricing of barrier options derivatives whose outcomes depend on whether an asset’s price breaches a set barrier during its life. Our approach employs Monte Carlo simulation enhanced by variance reduction techniques to obtain precise and efficient pricing estimates. The methods implemented include:
