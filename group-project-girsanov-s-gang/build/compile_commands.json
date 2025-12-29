@@ -1,0 +1,241 @@
+[
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src  -g   -std=gnu++17 -o CMakeFiles/generate_convergence_output.dir/src/generate_convergence_output.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/generate_convergence_output.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/generate_convergence_output.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src  -g   -std=gnu++17 -o CMakeFiles/generate_convergence_output.dir/src/capture_output.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/capture_output.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/capture_output.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src  -g   -std=gnu++17 -o CMakeFiles/option_pricing_convergence.dir/src/option_pricing_convergence.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/option_pricing_convergence.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/option_pricing_convergence.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src  -g   -std=gnu++17 -o CMakeFiles/ib9jho_library.dir/src/Option.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/Option.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/Option.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src  -g   -std=gnu++17 -o CMakeFiles/ib9jho_library.dir/src/BarrierOption.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/BarrierOption.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/BarrierOption.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src  -g   -std=gnu++17 -o CMakeFiles/ib9jho_library.dir/src/OptionPricerBarrier.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrier.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrier.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src  -g   -std=gnu++17 -o CMakeFiles/ib9jho_library.dir/src/AnalysisWriter.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/AnalysisWriter.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/AnalysisWriter.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src  -g   -std=gnu++17 -o CMakeFiles/ib9jho_library.dir/src/OptionPricerBarrierStratified.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrierStratified.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrierStratified.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\"  -g   -std=gnu++17 -o CMakeFiles/Girsanov_gang_proj.dir/src/main.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/main.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/main.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\"  -g   -std=gnu++17 -o CMakeFiles/Girsanov_gang_proj.dir/src/Option.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/Option.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/Option.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\"  -g   -std=gnu++17 -o CMakeFiles/Girsanov_gang_proj.dir/src/BarrierOption.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/BarrierOption.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/BarrierOption.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\"  -g   -std=gnu++17 -o CMakeFiles/Girsanov_gang_proj.dir/src/OptionPricerBarrier.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrier.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrier.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\"  -g   -std=gnu++17 -o CMakeFiles/Girsanov_gang_proj.dir/src/AnalysisWriter.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/AnalysisWriter.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/AnalysisWriter.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\"  -g   -std=gnu++17 -o CMakeFiles/Girsanov_gang_proj.dir/src/OptionPricerBarrierStratified.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrierStratified.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrierStratified.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/importance_sampling_pricing.dir/importance_sampling_pricing.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/tests/importance_sampling_pricing.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/tests/importance_sampling_pricing.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/importance_sampling_pricing.dir/__/src/Option.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/Option.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/Option.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/importance_sampling_pricing.dir/__/src/BarrierOption.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/BarrierOption.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/BarrierOption.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/importance_sampling_pricing.dir/__/src/OptionPricerBarrier.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrier.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrier.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/antithetic_pricing.dir/antithetic_pricing.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/tests/antithetic_pricing.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/tests/antithetic_pricing.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/antithetic_pricing.dir/__/src/Option.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/Option.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/Option.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/antithetic_pricing.dir/__/src/BarrierOption.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/BarrierOption.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/BarrierOption.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/antithetic_pricing.dir/__/src/OptionPricerBarrier.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrier.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrier.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/stratified_sampling_pricing.dir/stratified_sampling_pricing.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/tests/stratified_sampling_pricing.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/tests/stratified_sampling_pricing.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/stratified_sampling_pricing.dir/__/src/Option.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/Option.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/Option.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/stratified_sampling_pricing.dir/__/src/BarrierOption.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/BarrierOption.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/BarrierOption.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/stratified_sampling_pricing.dir/__/src/OptionPricerBarrierStratified.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrierStratified.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrierStratified.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/stratified_sampling_pricing.dir/__/src/OptionPricerBarrier.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrier.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrier.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/control_variates_pricing.dir/control_variates_pricing.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/tests/control_variates_pricing.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/tests/control_variates_pricing.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/control_variates_pricing.dir/__/src/Option.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/Option.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/Option.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/control_variates_pricing.dir/__/src/BarrierOption.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/BarrierOption.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/BarrierOption.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/control_variates_pricing.dir/__/src/OptionPricerBarrier.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrier.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrier.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/naive_pricing.dir/naive_pricing.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/tests/naive_pricing.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/tests/naive_pricing.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/naive_pricing.dir/__/src/Option.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/Option.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/Option.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/naive_pricing.dir/__/src/BarrierOption.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/BarrierOption.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/BarrierOption.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/naive_pricing.dir/__/src/OptionPricerBarrier.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrier.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/OptionPricerBarrier.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/barrier_tests.dir/test_barrier_option.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/tests/test_barrier_option.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/tests/test_barrier_option.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/barrier_tests.dir/__/src/BarrierOption.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/BarrierOption.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/BarrierOption.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/barrier_tests.dir/__/src/Option.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/Option.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/Option.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/option_tests.dir/test_option.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/tests/test_option.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/tests/test_option.cpp"
+},
+
+{
+  "directory": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/build",
+  "command": "/usr/bin/clang++  -DPROJECT_ROOT_DIR=\\\"/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang\\\" -I../src -I../extern/catch2  -g   -std=gnu++17 -o tests/CMakeFiles/option_tests.dir/__/src/Option.cpp.o -c /home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/Option.cpp",
+  "file": "/home/ninja123superxl/code/C++_Proj/group-project-girsanov-s-gang/src/Option.cpp"
+}
+]

@@ -1,0 +1,129 @@
+Start testing: Mar 12 10:49 GMT
+----------------------------------------------------------
+1/7 Testing: option_tests
+1/7 Test: option_tests
+Command: "/home/ninja123superxl/code/C++_Proj/build/tests/option_tests"
+Directory: /home/ninja123superxl/code/C++_Proj/build/tests
+"option_tests" start time: Mar 12 10:49 GMT
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (3 assertions in 3 test cases)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"option_tests" end time: Mar 12 10:49 GMT
+"option_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/7 Testing: barrier_tests
+2/7 Test: barrier_tests
+Command: "/home/ninja123superxl/code/C++_Proj/build/tests/barrier_tests"
+Directory: /home/ninja123superxl/code/C++_Proj/build/tests
+"barrier_tests" start time: Mar 12 10:49 GMT
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (15 assertions in 10 test cases)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"barrier_tests" end time: Mar 12 10:49 GMT
+"barrier_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/7 Testing: naive_pricing
+3/7 Test: naive_pricing
+Command: "/home/ninja123superxl/code/C++_Proj/build/tests/naive_pricing"
+Directory: /home/ninja123superxl/code/C++_Proj/build/tests
+"naive_pricing" start time: Mar 12 10:49 GMT
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (14 assertions in 14 test cases)
+
+<end of output>
+Test time =  11.12 sec
+----------------------------------------------------------
+Test Passed.
+"naive_pricing" end time: Mar 12 10:49 GMT
+"naive_pricing" time elapsed: 00:00:11
+----------------------------------------------------------
+
+4/7 Testing: antithetic_pricing
+4/7 Test: antithetic_pricing
+Command: "/home/ninja123superxl/code/C++_Proj/build/tests/antithetic_pricing"
+Directory: /home/ninja123superxl/code/C++_Proj/build/tests
+"antithetic_pricing" start time: Mar 12 10:49 GMT
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (17 assertions in 12 test cases)
+
+<end of output>
+Test time =  22.78 sec
+----------------------------------------------------------
+Test Passed.
+"antithetic_pricing" end time: Mar 12 10:49 GMT
+"antithetic_pricing" time elapsed: 00:00:22
+----------------------------------------------------------
+
+5/7 Testing: control_variates_pricing
+5/7 Test: control_variates_pricing
+Command: "/home/ninja123superxl/code/C++_Proj/build/tests/control_variates_pricing"
+Directory: /home/ninja123superxl/code/C++_Proj/build/tests
+"control_variates_pricing" start time: Mar 12 10:49 GMT
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (16 assertions in 12 test cases)
+
+<end of output>
+Test time =  17.49 sec
+----------------------------------------------------------
+Test Passed.
+"control_variates_pricing" end time: Mar 12 10:50 GMT
+"control_variates_pricing" time elapsed: 00:00:17
+----------------------------------------------------------
+
+6/7 Testing: importance_sampling_pricing
+6/7 Test: importance_sampling_pricing
+Command: "/home/ninja123superxl/code/C++_Proj/build/tests/importance_sampling_pricing"
+Directory: /home/ninja123superxl/code/C++_Proj/build/tests
+"importance_sampling_pricing" start time: Mar 12 10:50 GMT
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (16 assertions in 12 test cases)
+
+<end of output>
+Test time =  17.81 sec
+----------------------------------------------------------
+Test Passed.
+"importance_sampling_pricing" end time: Mar 12 10:50 GMT
+"importance_sampling_pricing" time elapsed: 00:00:17
+----------------------------------------------------------
+
+7/7 Testing: stratified_sampling_pricing
+7/7 Test: stratified_sampling_pricing
+Command: "/home/ninja123superxl/code/C++_Proj/build/tests/stratified_sampling_pricing"
+Directory: /home/ninja123superxl/code/C++_Proj/build/tests
+"stratified_sampling_pricing" start time: Mar 12 10:50 GMT
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (12 assertions in 12 test cases)
+
+<end of output>
+Test time =   4.56 sec
+----------------------------------------------------------
+Test Passed.
+"stratified_sampling_pricing" end time: Mar 12 10:50 GMT
+"stratified_sampling_pricing" time elapsed: 00:00:04
+----------------------------------------------------------
+
+End testing: Mar 12 10:50 GMT

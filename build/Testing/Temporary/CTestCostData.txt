@@ -1,0 +1,8 @@
+option_tests 1 0.00655597
+barrier_tests 1 0.0039211
+naive_pricing 1 11.1204
+antithetic_pricing 1 22.7835
+control_variates_pricing 1 17.4888
+importance_sampling_pricing 1 17.8113
+stratified_sampling_pricing 1 4.55939
+---
